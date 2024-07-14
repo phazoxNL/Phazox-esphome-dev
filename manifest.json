@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "ota": {
         "path": "project-template-esp32/project-template-esp32.ota.bin",
-        "md5": "c71a463cb070f3692d1410cd7a80d186"
+        "md5": "fe3f9532b5469a9ee72af0f61a14b5c3"
       },
       "parts": [
         {
@@ -21,7 +21,7 @@
       "chipFamily": "ESP32-C3",
       "ota": {
         "path": "project-template-esp32c3/project-template-esp32c3.ota.bin",
-        "md5": "eedeec674ad5750d5e893065d70c52fa"
+        "md5": "ef37dea93e54544c1caa38520b9c7adb"
       },
       "parts": [
         {
@@ -34,7 +34,7 @@
       "chipFamily": "ESP32-S3",
       "ota": {
         "path": "project-template-esp32s3/project-template-esp32s3.ota.bin",
-        "md5": "796d9c82a87991c4f2287fb22b30ca9b"
+        "md5": "b3ab6e8568b96375bfcbfaeb661e9ce2"
       },
       "parts": [
         {
